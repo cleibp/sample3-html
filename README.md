@@ -1,7 +1,7 @@
 <h1 align="center"> 🚀 Exemplo de HTML </h1>
 
 ## ✍️ Descrição
-Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML
+Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML PART 3
 
 
 ## 📥 Clone/Baixe
@@ -11,7 +11,7 @@ Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML
     ### Clonando
 
     ```bash
-    git clone git@github.com:cleibp/sample-html.git
+    git clone git@github.com:cleibp/sample3-html.git
     ```
 1. Download:
     ### Download Manual

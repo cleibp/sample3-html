@@ -25,7 +25,7 @@ Exemplificação da sintaxe geral e básica da Linguagem de Marcação HTML PART
 ```sh
 .
 ├── README.md
-└── index.html
+├── index.html
 └── style.css
 ```
 
